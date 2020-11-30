@@ -2,7 +2,7 @@
 *Alguns projetos que fiz no curso de Matemática Aplicada e Computacional.*
 
 ## simplex
-Implementação básica do algoritmo Simplex de modelos lineares em python vista na disciplina de Programação Linear.
+Implementação básica do algoritmo Simplex de modelos lineares visto na disciplina de Programação Linear.
 
 ## ms629
 Implementação de alguns algoritmo de modelos não lineares visto na disciplina de Programação Não-Linear.
