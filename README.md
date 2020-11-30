@@ -2,7 +2,10 @@
 *Alguns projetos que fiz no curso de Matemática Aplicada e Computacional.*
 
 ## simplex
-Implementação básica do algoritmo Simplex em python.
+Implementação básica do algoritmo Simplex de modelos lineares em python vista na disciplina de Programação Linear.
+
+## ms629
+Implementação de alguns algoritmo de modelos não lineares visto na disciplina de Programação Não-Linear.
 
 ## ms777
 Projeto realizado na matéria MS777 - Projeto Supervisionado I, administrada no 2s2019. O tema do meu projeto foi: Redes neurais convolucionais e máquinas de vetores de suporte para classificação de imagens médicas.
