@@ -18,6 +18,6 @@ O relátorio final do projeto pode ser conferido aqui: https://marciosimoes.com/
 Implementação básica do algoritmo Simplex de modelos lineares visto na disciplina de Programação Linear.
 
 ## projeto-ms902
-Dasafio realizado para a disciplina de MS902 - Tópicos em Ciência de Dados Aplicada a Negócios, que consistiu na criação de uma aplicação que obtém noticias relacionadas a ativos da bolsa de valores.
+Desafio realizado para a disciplina de MS902 - Tópicos em Ciência de Dados Aplicada a Negócios, que consistiu na criação de uma aplicação que obtém noticias relacionadas a ativos da bolsa de valores.
 
 O codigo completo da aplicação pode ser conferido aqui: https://github.com/marciosimoes/projeto-ms902.
